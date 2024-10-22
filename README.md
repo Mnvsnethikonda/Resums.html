@@ -69,7 +69,7 @@ I can help you with adding content to specific sections or customizing the websi
 **Easy understanding Structure**
 The provided code is a well-structured HTML and CSS document for a personal portfolio website. Here's a breakdown of the code:
 
-**HTML Structure:**
+//HTML Structure:**
 
 - The code starts with an HTML document declaration (`<!DOCTYPE html>`).
 - It defines the document language (`lang="en"`).
